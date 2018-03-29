@@ -12,7 +12,7 @@ Leiningen/Boot
 --------------
 
 ```clojure
-[ring-version-header "0.0.0"]
+[ring-version-header "0.1.0"]
 ```
 
 Documentation
